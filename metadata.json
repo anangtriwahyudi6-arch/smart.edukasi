@@ -1,0 +1,7 @@
+{
+  "name": "Sistem PPI",
+  "description": "Sistem Program Pembelajaran Individual (PPI) Sekolah Inklusi lengkap dengan Jurnal Harian, Foto Dokumentasi, Asesmen, AI Drafting Gemini, dan Laporan Akhir Semester.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
